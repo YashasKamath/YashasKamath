@@ -9,12 +9,12 @@
 - 🥅 2023 Goals: Prepare well and contribute to MITACS Research Internship @ETS Montreal!
 - ⚡ Fun fact: I love to solve sudoku puzzles and play chess:star_struck:!
 
-### Connect with me:
+<!-- ### Connect with me:
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/yashas-kamath#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yashas-kamath#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 
 ### Languages and Tools:
 
