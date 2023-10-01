@@ -2,7 +2,7 @@
 
 ## **About me**
 
-### I am a competitive programmer and a full-stack web developer. I am currently a final-year CSE undergraduate at the Manipal Institute of Technology. I am also the Technical Head at IECSE, Manipal for the year 2022-23.
+### I am a competitive programmer and a full-stack web developer. I am currently a final-year CSE undergraduate at the Manipal Institute of Technology. I was also the Technical Head at IECSE, Manipal for the year 2022-23.
 
 - 🌱 I’m currently learning computational mathematics in machine learning and react native!
 - 👯 I’m looking out for remote SDE internships.
