@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning computational mathematics in machine learning and react native!
 - 👯 I’m looking out for remote SDE internships.
 - 🥅 2023 Goals: Prepare well and contribute to MITACS Research Internship @ETS Montreal!
-- ⚡ Fun fact: I love to solve sudoku puzzles and play chess:star_struck:!
+- ⚡ Fun fact: I love to solve sudoku puzzles and play chess!
 
 <!-- ### Connect with me:
 
