@@ -9,7 +9,6 @@
 - 🥅 2023 Goals: Prepare well and contribute to MITACS Research Internship @ETS Montreal!
 - ⚡ Fun fact: I love to solve sudoku puzzles and play chess!
 
-- ![Snake animation](https://github.com/YashasKamath/YashasKamath/blob/output/snake.svg)
 
 
 <!-- ### Connect with me:
