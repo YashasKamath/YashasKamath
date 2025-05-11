@@ -1,55 +1,64 @@
-# Hi there, I'm Yashas Kamath 👋
+# 👋 Hi, I'm Yashas Kamath!
 
-## **About me**
+🎓 B.Tech in Computer Science and Engineering from [Manipal Institute of Technology](https://manipal.edu/mit.html) (CGPA: 9.64)  
+💻 Software Engineer @ Philips, Bangalore | Ex-MITACS Research Intern @ ÉTS Montreal  
+🚀 Passionate about Systems Programming, Graphics Rendering (OpenGL/Vulkan), and Scalable Backend Systems
 
-### I am a competitive programmer and a full-stack web developer. I am currently a final-year CSE undergraduate at the Manipal Institute of Technology. I was also the Technical Head at IECSE, Manipal for the year 2022-23.
+---
 
-- 🌱 I’m currently learning computational mathematics in machine learning and react native!
-- 👯 I’m looking out for remote SDE internships.
-- 🥅 2023 Goals: Prepare well and contribute to MITACS Research Internship @ETS Montreal!
-- ⚡ Fun fact: I love to solve sudoku puzzles and play chess!
+## 🧠 Tech Stack
 
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**Frameworks & Tools:**  
+![Spring Reactive](https://img.shields.io/badge/Spring%20Reactive-6DB33F?style=flat&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-<!-- ### Connect with me:
+**Graphics APIs:**  
+![Vulkan](https://img.shields.io/badge/Vulkan-B7410E?style=flat&logo=vulkan&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-FF4C4C?style=flat)
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/yashas-kamath#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yashas-kamath#gh-dark-mode-only)
-&nbsp;&nbsp; -->
+## 💼 Experience
 
-### Languages and Tools:
+### 💡 **Software Engineer @ Philips, Bangalore**
+*Jan 2024 — Present*
+- Automated SAP Power Designer to Azure Data Lake CDM integration via VBScript + Python (87% manual effort reduction).
+- Developed backend APIs (Spring Reactive + Postgres) for a global-scale RFP system (5,000+ users).
+- Integrated GPT-4 into RFP workflows for AI-assisted proposal generation (~60% time reduction).
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-<!-- [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist] -->
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-<!-- [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only) -->
-<!-- [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only) -->
+### 🌐 **MITACS Globalink Intern @ ÉTS Montreal**
+*Jun 2023 — Aug 2023*
+- Designed a multi-modal transit routing algorithm in C++ using Boost.
+- Bridged Python & C++ for nearest-stop resolution due to Boost limitations.
 
-<br />
-<br />
+---
 
-<img align="left" alt="Yashas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YashasKamath&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+## 🏆 Achievements
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+- 🥇 1st place – **Code Fusion**, TechTatva’23 (National-level tech fest)  
+- 🥇 1st place – **Neo Codeathon** by iamneo  
+- ✍️ Published **DSA articles** on [Take U Forward (TUF)](https://takeuforward.org):
+  - [KMP Algorithm](https://takeuforward.org/data-structure/kmp-algorithm/)
+  - [Word Search II](https://takeuforward.org/data-structure/word-search-ii/)
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LeetCode](https://leetcode.com/Yashas_Kamath/)  
+- 🔗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yashaskamath81)  
+- 🔗 [Codeforces](https://codeforces.com/profile/yashas125)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashas-kamath-44500021b/)
+
+---
+
+⭐ *Always eager to learn and contribute to impactful tech. Let’s build something awesome together!*
